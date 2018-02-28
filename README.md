@@ -25,7 +25,7 @@
 1. **.eslintrc:** corrige sintaxis.
 2. **index.html:** archivo principal.
 3. **README.md:** archivo con descripción del proyecto realizado.
-4. **Babel** Transpilador.
+4. **Babel** Transpilador .
 
 ### Aquí la muestra de la estructura del proyecto
 ![estructura](assets/docs/estructura-archivos.png "estructura")# prueba-errores-estrella
